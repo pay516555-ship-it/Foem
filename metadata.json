@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Portal",
+  "description": "A professional job application site with structured candidate forms, PDF uploads, robust validation, and a secure admin dashboard powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
